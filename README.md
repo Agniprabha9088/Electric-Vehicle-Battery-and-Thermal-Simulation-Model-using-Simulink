@@ -1,12 +1,12 @@
 # Electric-Vehicle-Battery-and-Thermal-Simulation-Model-using-Simulink
 
-This project presents a simulation model for analyzing the electrical and thermal performance of a lithium-ion battery system used in electric vehicles (EVs). The model has been customized by Ancd to ensure uniqueness in structure, parameters, and component arrangement.
+This project presents a simulation model for analyzing the electrical and thermal performance of a lithium-ion battery system used in electric vehicles (EVs). The model has been customized to ensure uniqueness in structure, parameters, and component arrangement.
 
 Model Overview:
 
 The simulation is built in MATLAB Simulink and consists of the following key subsystems:
 
-PowerStorageUnit: A customized battery model representing the dynamic behavior of lithium-ion cells under varying load conditions.
+PowerStorageUnit: A customized model representing the dynamic behavior of lithium-ion cells under varying load conditions.
 
 EnergyInteractionSystem: A subsystem integrating the thermal and electrical models to simulate how heat affects battery efficiency.
 
